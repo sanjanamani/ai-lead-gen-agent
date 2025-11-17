@@ -1,0 +1,153 @@
+{
+  "search_input": "pcos",
+  "queries_used": [
+    "small to mid-size US pcos biotech companies with failed phase 2 trials",
+    "US pcos biotechs with terminated clinical trials 2020-2024",
+    "pcos biotech companies with suspended phase 3 trials",
+    "small biotech companies discontinued pcos programs",
+    "pcos drug development companies failed trials"
+  ],
+  "companies": [
+    {
+      "company_name": "Celmatix",
+      "overview": "Celmatix is a preclinical-stage biotechnology company focused on developing novel therapeutics for women's health, including polycystic ovary syndrome (PCOS) and infertility. Based in New York City and Cambridge, MA, Celmatix aims to leverage genetic insights to create targeted treatments for these complex conditions.",
+      "location": "New York City, New York, United States",
+      "website": "https://www.celmatix.com",
+      "therapeutic_areas": [
+        "women's health",
+        "fertility"
+      ],
+      "clinical_trials": {
+        "phase_2_failed": [],
+        "phase_3_failed": [],
+        "dormant_assets": []
+      },
+      "drug_assets": [],
+      "decision_makers": [
+        {
+          "name": "Piraye Beim",
+          "role": "Founder and CEO at Celmatix Therapeutics",
+          "linkedin_url": "https://www.linkedin.com/in/pirayebeim",
+          "email": null,
+          "source": "serpapi"
+        },
+        {
+          "name": "Karen Hunter Cohn, PhD",
+          "role": "Celmatix",
+          "linkedin_url": "https://www.linkedin.com/in/karenhcohn",
+          "email": null,
+          "source": "serpapi"
+        },
+        {
+          "name": "Rich Hofbauer",
+          "role": "Founder | Investor | Building Companies & ...",
+          "linkedin_url": "https://www.linkedin.com/in/rich-hofbauer-7362134",
+          "email": null,
+          "source": "serpapi"
+        },
+        {
+          "name": "Rebecca Chodroff Foran, PhD",
+          "role": "Senior Director, R&D, ...",
+          "linkedin_url": "https://www.linkedin.com/in/rebecca-chodroff-foran-phd-112aa21b",
+          "email": null,
+          "source": "serpapi"
+        },
+        {
+          "name": "Elizabeth (Ellie) Amador",
+          "role": "Director of Clinical Research ...",
+          "linkedin_url": "https://www.linkedin.com/in/elizabeth-ellie-amador-555a8666",
+          "email": null,
+          "source": "serpapi"
+        }
+      ],
+      "investors": [],
+      "fit_score_for_convexia": 70,
+      "reason_for_fit_score": "Celmatix's focus on women's health, specifically PCOS and infertility, aligns with Convexia's interest in rescuing failed or dormant assets in these areas. Although specific failed trials or dormant assets are not identified, the company's therapeutic focus and preclinical stage suggest potential for future rescue opportunities.",
+      "data_sources_used": [
+        "https://www.celmatix.com"
+      ],
+      "last_updated": "2025-11-17 22:57:07.343455"
+    },
+    {
+      "company_name": "Spruce Biosciences",
+      "overview": "Spruce Biosciences is a biopharmaceutical company focused on developing and commercializing novel therapies for rare endocrine disorders, including polycystic ovary syndrome (PCOS). They are running clinical trials for a drug called tildacerfont aimed at treating PCOS.",
+      "location": "San Francisco, California, United States",
+      "website": "https://www.sprucebiosciences.com",
+      "therapeutic_areas": [
+        "endocrinology",
+        "women's health"
+      ],
+      "clinical_trials": {
+        "phase_2_failed": [],
+        "phase_3_failed": [],
+        "dormant_assets": [
+          {
+            "asset_name": "tildacerfont",
+            "indication": "PCOS",
+            "status": "dormant",
+            "notes": "Limited information on trial outcomes; potential for reevaluation"
+          }
+        ]
+      },
+      "drug_assets": [
+        {
+          "name": "tildacerfont",
+          "modality": "small molecule",
+          "indication": "PCOS",
+          "development_stage": "phase 2",
+          "target": null
+        }
+      ],
+      "decision_makers": [
+        {
+          "name": "Percival Barretto-Ko",
+          "role": "Spruce Biosciences",
+          "linkedin_url": "https://www.linkedin.com/in/pbarrettoko",
+          "email": null,
+          "source": "serpapi"
+        },
+        {
+          "name": "Kirk Ways",
+          "role": "Spruce Biosciences",
+          "linkedin_url": "https://www.linkedin.com/in/kirk-ways-b436a67",
+          "email": null,
+          "source": "serpapi"
+        },
+        {
+          "name": "Mary Romeo",
+          "role": "SPARK at Stanford",
+          "linkedin_url": "https://www.linkedin.com/in/marydromeo",
+          "email": null,
+          "source": "serpapi"
+        },
+        {
+          "name": "Alexis Howerton, Ph.D.",
+          "role": "Founder/CEO",
+          "linkedin_url": "https://www.linkedin.com/in/alexis-howerton-ph-d-7839076b",
+          "email": null,
+          "source": "serpapi"
+        },
+        {
+          "name": "Mike Grey",
+          "role": "Sorriso Pharmaceuticals",
+          "linkedin_url": "https://www.linkedin.com/in/mikegrey",
+          "email": null,
+          "source": "serpapi"
+        }
+      ],
+      "investors": [],
+      "fit_score_for_convexia": 70,
+      "reason_for_fit_score": "Spruce Biosciences has a clear focus on endocrine disorders, including PCOS, with a drug in clinical trials. Despite the lack of detailed outcomes, the scientific rationale and therapeutic focus align with Convexia's interest in rescuing failed or dormant assets.",
+      "data_sources_used": [
+        "https://www.nbcnews.com/health/womens-health/pcos-diagnosis-treatment-difficult-women-rcna142430"
+      ],
+      "last_updated": "2025-11-17 22:57:39.479796"
+    }
+  ],
+  "summary": {
+    "total_companies": 2,
+    "total_decision_makers": 10,
+    "total_emails": 10,
+    "avg_fit_score": 70.0
+  }
+}

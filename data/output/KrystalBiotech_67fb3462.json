@@ -1,0 +1,79 @@
+{
+  "company_name": "Krystal Biotech",
+  "overview": "Krystal Biotech focuses on developing gene therapies for dermatological diseases, including skin cancer. Their approach involves using engineered herpes virus vectors for targeted delivery. Despite a promising start, their phase 2 study of KB707 for skin cancer was halted.",
+  "location": null,
+  "website": null,
+  "therapeutic_areas": [
+    "oncology"
+  ],
+  "clinical_trials": {
+    "phase_2_failed": [
+      {
+        "nct_id": null,
+        "title": "Phase 2 study of KB707",
+        "condition_or_disease": "Skin Cancer",
+        "intervention_name": "KB707",
+        "phase": null,
+        "status": "Halted",
+        "sponsor": "Krystal Biotech",
+        "why_stopped": "Enrollment halted; specific reasons not detailed in available data",
+        "completion_date": null
+      }
+    ],
+    "phase_3_failed": [],
+    "dormant_assets": []
+  },
+  "drug_assets": [
+    {
+      "name": "KB707",
+      "modality": "gene therapy",
+      "indication": "Skin Cancer",
+      "development_stage": "phase 2",
+      "target": null
+    }
+  ],
+  "decision_makers": [
+    {
+      "name": "Krish Krishnan",
+      "role": "Chairman/CEO at Krystal Biotech, Inc. ...",
+      "linkedin_url": "https://www.linkedin.com/in/krish-krishnan-3a0b43115",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Suma Krishnan",
+      "role": "Founder & President at Krystal Biotech, Inc.",
+      "linkedin_url": "https://www.linkedin.com/in/suma-krishnan-781130116",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "David C.",
+      "role": "Krystal Biotech, Inc.",
+      "linkedin_url": "https://www.linkedin.com/in/davidchienmd",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Andy Orth",
+      "role": "Krystal Biotech, Inc.",
+      "linkedin_url": "https://www.linkedin.com/in/andy-orth-87822a6",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "David Sweet MD, PhD",
+      "role": "Director of Clinical Development at ...",
+      "linkedin_url": "https://www.linkedin.com/in/dsweetmdphd",
+      "email": null,
+      "source": "serpapi"
+    }
+  ],
+  "investors": [],
+  "fit_score_for_convexia": 70,
+  "reason_for_fit_score": "Krystal Biotech's halt in their phase 2 study for skin cancer due to undisclosed reasons presents a potential opportunity for intervention and rescue, aligning with Convexia's focus on assets with execution challenges rather than flawed science.",
+  "data_sources_used": [
+    "https://www.oncologynewscentral.com/oncology/halted-trials-patient-deaths-and-more-recent-new-on-oncology-research-concerns"
+  ],
+  "last_updated": "2025-11-17 22:48:43.667929"
+}

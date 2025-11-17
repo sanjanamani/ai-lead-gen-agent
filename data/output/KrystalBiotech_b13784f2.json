@@ -1,0 +1,79 @@
+{
+  "company_name": "Krystal Biotech",
+  "overview": "Krystal Biotech is focused on developing and commercializing gene therapies for dermatological diseases. They leverage their proprietary gene delivery platform for the treatment of skin diseases. Their key asset, KB707, aimed at treating skin cancer, encountered a setback in a phase 2 study.",
+  "location": "Pittsburgh, Pennsylvania, United States",
+  "website": "https://www.krystalbio.com",
+  "therapeutic_areas": [
+    "oncology"
+  ],
+  "clinical_trials": {
+    "phase_2_failed": [
+      {
+        "nct_id": null,
+        "title": "Phase 2 study of KB707",
+        "condition_or_disease": "Skin Cancer",
+        "intervention_name": "KB707",
+        "phase": null,
+        "status": "Terminated",
+        "sponsor": "Krystal Biotech",
+        "why_stopped": "Enrollment halted, specific reasons not detailed in available data",
+        "completion_date": null
+      }
+    ],
+    "phase_3_failed": [],
+    "dormant_assets": []
+  },
+  "drug_assets": [
+    {
+      "name": "KB707",
+      "modality": "gene therapy",
+      "indication": "Skin Cancer",
+      "development_stage": "phase 2",
+      "target": null
+    }
+  ],
+  "decision_makers": [
+    {
+      "name": "Krish Krishnan",
+      "role": "Chairman/CEO at Krystal Biotech, Inc. ...",
+      "linkedin_url": "https://www.linkedin.com/in/krish-krishnan-3a0b43115",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Suma Krishnan",
+      "role": "Founder & President at Krystal Biotech, Inc.",
+      "linkedin_url": "https://www.linkedin.com/in/suma-krishnan-781130116",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "David C.",
+      "role": "Krystal Biotech, Inc.",
+      "linkedin_url": "https://www.linkedin.com/in/davidchienmd",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Andy Orth",
+      "role": "Krystal Biotech, Inc.",
+      "linkedin_url": "https://www.linkedin.com/in/andy-orth-87822a6",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "David Sweet MD, PhD",
+      "role": "Director of Clinical Development at ...",
+      "linkedin_url": "https://www.linkedin.com/in/dsweetmdphd",
+      "email": null,
+      "source": "serpapi"
+    }
+  ],
+  "investors": [],
+  "fit_score_for_convexia": 75,
+  "reason_for_fit_score": "Krystal Biotech's failure in phase 2 for KB707 due to enrollment issues, not efficacy or safety, presents a potential rescue opportunity for Convexia. Their focus on oncology and gene therapy aligns with Convexia's interest in innovative, yet challenged, therapeutic approaches.",
+  "data_sources_used": [
+    "https://www.oncologynewscentral.com/oncology/halted-trials-patient-deaths-and-more-recent-new-on-oncology-research-concerns"
+  ],
+  "last_updated": "2025-11-17 22:46:30.524351"
+}

@@ -1,0 +1,60 @@
+{
+  "company_name": "Celmatix",
+  "overview": "Celmatix is a preclinical-stage biotechnology company focused on developing novel therapeutics for women's health, including polycystic ovary syndrome (PCOS) and infertility. Based in New York City and Cambridge, MA, Celmatix aims to leverage genetic insights to create targeted treatments for these complex conditions.",
+  "location": "New York City, New York, United States",
+  "website": "https://www.celmatix.com",
+  "therapeutic_areas": [
+    "women's health",
+    "fertility"
+  ],
+  "clinical_trials": {
+    "phase_2_failed": [],
+    "phase_3_failed": [],
+    "dormant_assets": []
+  },
+  "drug_assets": [],
+  "decision_makers": [
+    {
+      "name": "Piraye Beim",
+      "role": "Founder and CEO at Celmatix Therapeutics",
+      "linkedin_url": "https://www.linkedin.com/in/pirayebeim",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Karen Hunter Cohn, PhD",
+      "role": "Celmatix",
+      "linkedin_url": "https://www.linkedin.com/in/karenhcohn",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Rich Hofbauer",
+      "role": "Founder | Investor | Building Companies & ...",
+      "linkedin_url": "https://www.linkedin.com/in/rich-hofbauer-7362134",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Rebecca Chodroff Foran, PhD",
+      "role": "Senior Director, R&D, ...",
+      "linkedin_url": "https://www.linkedin.com/in/rebecca-chodroff-foran-phd-112aa21b",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Elizabeth (Ellie) Amador",
+      "role": "Director of Clinical Research ...",
+      "linkedin_url": "https://www.linkedin.com/in/elizabeth-ellie-amador-555a8666",
+      "email": null,
+      "source": "serpapi"
+    }
+  ],
+  "investors": [],
+  "fit_score_for_convexia": 70,
+  "reason_for_fit_score": "Celmatix's focus on women's health, specifically PCOS and infertility, aligns with Convexia's interest in rescuing failed or dormant assets in these areas. Although specific failed trials or dormant assets are not identified, the company's therapeutic focus and preclinical stage suggest potential for future rescue opportunities.",
+  "data_sources_used": [
+    "https://www.celmatix.com"
+  ],
+  "last_updated": "2025-11-17 22:57:07.343455"
+}

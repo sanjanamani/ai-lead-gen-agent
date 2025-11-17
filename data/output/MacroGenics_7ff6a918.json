@@ -1,0 +1,68 @@
+{
+  "company_name": "MacroGenics",
+  "overview": "MacroGenics is a biotechnology company focused on discovering and developing innovative monoclonal antibody-based therapeutics for the treatment of cancer, as well as various autoimmune disorders and infectious diseases. The company, based in Rockville, Maryland, USA, has a diverse pipeline of product candidates in various stages of development.",
+  "location": "Rockville, Maryland, USA",
+  "website": "https://www.macrogenics.com",
+  "therapeutic_areas": [
+    "oncology",
+    "autoimmune disorders",
+    "infectious diseases"
+  ],
+  "clinical_trials": {
+    "phase_2_failed": [],
+    "phase_3_failed": [],
+    "dormant_assets": [
+      {
+        "asset_name": "Not specified",
+        "indication": "Diabetes",
+        "status": "dormant",
+        "notes": "Lilly had acquired exclusive rights to a diabetes drug from MacroGenics, which was later abandoned but found new life."
+      }
+    ]
+  },
+  "drug_assets": [],
+  "decision_makers": [
+    {
+      "name": "Scott Koenig",
+      "role": "President and CEO at MacroGenics Inc",
+      "linkedin_url": "https://www.linkedin.com/in/scott-koenig-9721989",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Stephen Eck",
+      "role": "MacroGenics, Inc.",
+      "linkedin_url": "https://www.linkedin.com/in/stephen-eck-694a2611",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Frank Perabo",
+      "role": "Vice President, Clinical Development",
+      "linkedin_url": "https://www.linkedin.com/in/frank-perabo-1a46a9212",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "Ezio Bonvini",
+      "role": "MacroGenics, Inc.",
+      "linkedin_url": "https://www.linkedin.com/in/ezio-bonvini-6694b766",
+      "email": null,
+      "source": "serpapi"
+    },
+    {
+      "name": "William Heiden",
+      "role": "Healthcare executive & board chair/member",
+      "linkedin_url": "https://www.linkedin.com/in/wheiden",
+      "email": null,
+      "source": "serpapi"
+    }
+  ],
+  "investors": [],
+  "fit_score_for_convexia": 70,
+  "reason_for_fit_score": "MacroGenics had developed a diabetes drug that was abandoned by Lilly but later revived, indicating a strong scientific rationale despite initial discontinuation. This situation aligns with Convexia's model of identifying assets with potential for rescue and further development.",
+  "data_sources_used": [
+    "https://www.indianabiosciences.org/news/diabetes-drug-lilly-abandoned-has-new-life.html"
+  ],
+  "last_updated": "2025-11-17 23:05:53.565601"
+}
